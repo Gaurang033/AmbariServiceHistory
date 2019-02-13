@@ -1,0 +1,7 @@
+requests
+flask
+celery
+pandas
+redis
+gunicorn
+flask_cors
